@@ -1,10 +1,93 @@
-# 💫 About Me:
-👋 Hi, I'm Safvan  <br><br>📊 Data Analyst Aspirant  <br>🎓 Final-Year BCA Student  <br>📍 Kerala, India  <br><br>---<br><br>I enjoy working with data — cleaning it, analyzing it, and transforming it into useful business insights.<br><br>My focus areas include:<br>- Data Cleaning & Transformation  <br>- Exploratory Data Analysis  <br>- SQL Data Modeling  <br>- Dashboard Development  <br>- Business Insight Generation  <br><br>---<br><br>⚙️ Tools I Use  <br>Python | Pandas | NumPy  <br>SQL | MySQL  <br>Power BI | Excel  <br>Matplotlib | Seaborn  <br><br>---<br><br>📌 Featured Work  <br>🏥 Hospital Multi-table Data Analysis  <br>🎬 Netflix Dataset Analysis  <br>📈 Sales Dashboard Development  <br><br>
+<div align="center">
 
+# Hi, I'm Safvan Sidheeq
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/safvenn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safvenn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safvankallayi7@gmail.com) 
+### AI / ML Developer · Data Enthusiast
 
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**From raw data to useful intelligence.**
 
+Building practical machine learning projects, exploring data, and turning insights into usable applications.
+
+📍 Kerala, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/safvenn)
+[![Email](https://img.shields.io/badge/Get_in_touch-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:safvankallayi7@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safvenn?tab=repositories)
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60A5FA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
+</div>
+
+---
+
+## About me
+
+I'm an AI/ML developer with a foundation in data analysis and Python. I enjoy working through the full journey: cleaning messy data, finding patterns, building predictive models, and creating simple applications around the results.
+
+My projects span house price prediction, healthcare analytics, and business data exploration. I'm interested in growing from strong data fundamentals toward useful, well-evaluated AI applications.
+
+- **Focus:** Machine learning, exploratory data analysis, and data applications.
+- **Interests:** Applied AI, predictive modeling, and clear data storytelling.
+- **Collaboration:** Open-source projects and practical problems involving data.
+- **Approach:** Start with a clear baseline. Measure what matters. Iterate with purpose.
+
+## Selected projects
+
+### 01 / [House Price Prediction](https://github.com/safvenn/house_price_prediction)
+
+**Turning property data into an interactive prediction experience.**
+
+A machine learning project covering data cleaning, exploratory analysis, feature engineering, regression models, and a Streamlit application for entering property details and viewing price estimates.
+
+`Python` `scikit-learn` `Pandas` `Streamlit`
+
+[Explore the project →](https://github.com/safvenn/house_price_prediction)
+
+### 02 / [Hospital Operations & Cost Analysis](https://github.com/safvenn/hospital_Multi_table_analysis)
+
+**Connecting multiple datasets to understand hospital operations.**
+
+An analysis of doctor utilization, patient treatment patterns, and billing behavior. Combines doctor, patient, treatment, and billing records with Python and SQL to explore workload distribution and cost drivers.
+
+`Python` `Pandas` `MySQL` `Matplotlib` `Seaborn`
+
+[Explore the project →](https://github.com/safvenn/hospital_Multi_table_analysis)
+
+### More to explore
+
+[Customer Churn Analysis](https://github.com/safvenn/customer-churn-analysis) · [EV Vehicles Analysis](https://github.com/safvenn/EV-vehicles-analysis) · [All repositories](https://github.com/safvenn?tab=repositories)
+
+## Toolbox
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages & querying** | Python, SQL |
+| **Data preparation** | Pandas, NumPy |
+| **Machine learning** | scikit-learn |
+| **Visualization & reporting** | Matplotlib, Seaborn, Power BI, Excel |
+| **Data applications** | Streamlit, Jupyter Notebook |
+| **Databases & workflow** | MySQL, PostgreSQL, Git, GitHub |
+
+## How I build
+
+**Understand → Prepare data → Establish a baseline → Experiment → Evaluate → Build**
+
+I value readable code, clear visualizations, and results that are easy to explain. My goal is to make each project useful, understandable, and grounded in the problem it solves.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+Interested in AI/ML projects, data-driven applications, or open-source collaboration?
+
+[Get in touch](mailto:safvankallayi7@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/safvenn)
+
+</div>
